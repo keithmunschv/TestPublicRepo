@@ -1,0 +1,70 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[xX]64/
+[xX]86/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+*.DS_Store
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored if it is not under version control
+packages/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+*.log
+*.vspscc
+*.vssscc
+*.v12.suo
+*.cache
+*.pdb
+*.mdb
+*.dbmdl
+*.bak
+*.swp
+*.tmp
+*.vs/
+
+# IIS Express
+/.vs/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Rider
+.idea/
+*.sln.iml
+
+# Web project publish directory
+[Tt]est[Rr]elease/
+[Tt]est[Dd]ebug/
+
+# Node modules
+node_modules/
+
+# JetBrains IDEs
+.idea/
+
+# Others
+*.orig
+*.rej
